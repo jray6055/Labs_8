@@ -1,0 +1,1 @@
+Hello World! Here we are using C++ language where in this program we will make a print of a pyramid using numberswhile using control statements where the user enters the number of rows which will be the number of iterations the program will do.
